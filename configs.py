@@ -24,19 +24,19 @@ Send Me any Media or File.I can Work In Channel too Add Me to Channel with Edit 
 
 ╭────[ **🔅FɪʟᴇSᴛᴏʀᴇBᴏᴛ🔅**]────⍟
 │
-├🔸🤖 **My Name:** [𝐅𝐢𝐥𝐞 𝐒𝐭𝐨𝐫𝐞 𝐁𝐨𝐭](https://t.me/{BOT_USERNAME})
+├🔸🤖 **My Name:** [𝐅𝐢𝐥𝐞 𝐒𝐭𝐨𝐫𝐞 𝐁𝐨𝐭](t.me/{BOT_USERNAME})
 │
-├🔸📝 **Language:** [𝐏𝐲𝐭𝐡𝐨𝐧𝟑](https://www.python.org)
+├🔸📝 **Language:** [𝐏𝐲𝐭𝐡𝐨𝐧𝟑](www.python.org)
 │
-├🔹📚 **Library:** [𝐏𝐲𝐫𝐨𝐠𝐫𝐚𝐦](https://docs.pyrogram.org)
+├🔹📚 **Library:** [𝐏𝐲𝐫𝐨𝐠𝐫𝐚𝐦](docs.pyrogram.org)
 │
-├🔹📡 **Hosted On:** [Heroku](https://heroku.com)
+├🔹📡 **Hosted On:** [Heroku](heroku.com)
 │
 ├🔸👨‍💻 **Developer:** [@GreyMatter_Owner](https://t.me/GreyMatter_Owner) 
 │
-├🔹👥 **Bot Support:** [𝐒𝐮𝐩𝐩𝐨𝐫𝐭](https://t.me/greymatters_bots_discussion)
+├🔹👥 **Bot Support:** [𝐒𝐮𝐩𝐩𝐨𝐫𝐭](t.me/greymatters_bots_discussion)
 │
-├🔸🔔 **Bot Updates:** [𝐔𝐩𝐝𝐚𝐭𝐞𝐬](https://t.me/greymatter_bots)
+├🔸🔔 **Bot Updates:** [𝐔𝐩𝐝𝐚𝐭𝐞𝐬](t.me/greymatter_bots)
 │
 ╰──────[ 😎 ]───────────⍟
 """
